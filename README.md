@@ -10,7 +10,6 @@ On a standard French keyboard, you cannot directly type the capital accented let
 - 🪟 **Windows**: classic installer + [Microsoft Store app](https://apps.microsoft.com/detail/9N4BTS43SSSZ)
 - 🍎 **macOS** (10.12+) · 🐧 **Linux** (Ubuntu, Debian, Fedora, Arch)
 - 🌐 Covers **200+ languages**, French typography (« » —), math and currency symbols
-- 💬 [Community Discord](https://discord.gg/nYknqshJz3)
 
 ## Repositories
 
