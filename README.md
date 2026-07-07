@@ -29,7 +29,7 @@ AZERTY Global is maintained by the **AMCF** (*Association pour la Modernisation 
 
 - Hardening the Windows app and cross-platform packages
 - Expanding QWERTY layouts for French speakers on QWERTY hardware
-- **OKLM** (Open Keyboard Layout Model, [oklm.org](https://oklm.org)) — an open format to describe, validate, and export keyboard layouts across platforms (draft)
+- **OKLM** (Open Keyboard Layout Model) — an open format to describe, validate, and export keyboard layouts across platforms (draft)
 
 ---
 
