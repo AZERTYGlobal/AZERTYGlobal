@@ -19,7 +19,6 @@ The workarounds have become part of French digital culture: generations of users
 |---|---|
 | [website](https://github.com/AZERTYGlobal/website) | azerty.global — site and interactive keyboard tester |
 | [app](https://github.com/AZERTYGlobal/app) | Windows companion app (Microsoft Store) |
-| [qwertyfrancais](https://github.com/AZERTYGlobal/qwertyfrancais) | QWERTY Français — French typing on QWERTY hardware |
 
 ## Who is behind this
 
