@@ -1,8 +1,10 @@
 # AZERTY Global
 
-**The French AZERTY keyboard layout hasn't changed since 1984 — and it's broken.**
+**The AZERTY layout that ships with Windows hasn't changed since 1984 — and it's deeply broken.**
 
-On a standard French keyboard, you cannot directly type the capital accented letters (É È Ç À) that French orthography requires. Characters the French language actually uses — the ligatures œ and æ, the quotation marks « », the dashes — and – — are simply missing. Typing a period needs the Shift key, the `@` sign hides behind `AltGr+0`, and braces or brackets require finger gymnastics. Typing in Spanish, German, Italian or almost any other language is worse still. Millions of French speakers work around their keyboard dozens of times a day without even noticing anymore.
+On Windows AZERTY, you cannot directly type the capital accented letters (É È Ç À) that French orthography requires. Characters the French language actually uses — the ligatures œ and æ, the quotation marks « », the dashes — and – — are simply missing. Typing a period needs the Shift key, the `@` sign hides behind `AltGr+0`, and braces or brackets require finger gymnastics. Typing in Spanish, German, Italian or almost any other language is worse still.
+
+The workarounds have become part of French digital culture: generations of users have memorized Alt codes by heart (`Alt+0201` for É), and *« é majuscule »* remains an evergreen Google search in France. Millions of French speakers fight their keyboard dozens of times a day without even noticing anymore.
 
 **AZERTY Global is the corrected AZERTY**: same letters, better punctuation, direct accented capitals, accessible programming symbols — while preserving **99% of existing typing habits**. Less than 1% of keystrokes differ, so switching takes hours, not weeks.
 
@@ -21,7 +23,7 @@ On a standard French keyboard, you cannot directly type the capital accented let
 
 ## Who is behind this
 
-AZERTY Global is maintained by the **AMCF** (Association pour la Modernisation du Clavier Français), a French registered nonprofit. Everything is free and released under the **EUPL 1.2** open-source license. Nothing is sold: the mission is public-interest modernization of the French keyboard.
+AZERTY Global is maintained by the **AMCF** (*Association pour la Modernisation du Clavier Français* — Association for the Modernization of the French Keyboard), a French registered nonprofit. Everything is free and released under the **EUPL 1.2** open-source license. Nothing is sold: the mission is public-interest modernization of the French keyboard.
 
 ## Roadmap
 
