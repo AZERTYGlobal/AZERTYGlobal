@@ -9,7 +9,7 @@ The workarounds have become part of French digital culture: generations of users
 **AZERTY Global is the corrected AZERTY**: same letters, better punctuation, direct accented capitals, accessible programming symbols — while preserving **99% of existing typing habits**. Less than 1% of keystrokes differ, so switching takes hours, not weeks.
 
 - 🌍 **Website & interactive tester**: [azerty.global](https://azerty.global)
-- 🪟 **Windows**: classic installer + [Microsoft Store app](https://apps.microsoft.com/detail/9N4BTS43SSSZ)
+- 🪟 **Windows**: classic installer + [Microsoft Store app](https://apps.microsoft.com/detail/9N4BTS43SSSZ?cid=github_profile)
 - 🍎 **macOS** (10.12+) · 🐧 **Linux** (Ubuntu, Debian, Fedora, Arch)
 - 🌐 Covers **200+ languages**, French typography (« » —), math and currency symbols
 
@@ -19,6 +19,7 @@ The workarounds have become part of French digital culture: generations of users
 |---|---|
 | [website](https://github.com/AZERTYGlobal/website) | azerty.global — site and interactive keyboard tester |
 | [app](https://github.com/AZERTYGlobal/app) | Windows companion app (Microsoft Store) |
+| [oklm](https://github.com/AZERTYGlobal/oklm) | Open Keyboard Layout Model — open format to describe, validate and export keyboard layouts |
 
 ## Who is behind this
 
@@ -28,7 +29,7 @@ AZERTY Global is maintained by the **AMCF** (*Association pour la Modernisation 
 
 - Hardening the Windows app and cross-platform packages
 - Expanding QWERTY layouts for French speakers on QWERTY hardware
-- **OKLM** (Open Keyboard Layout Model) — an open format to describe, validate, and export keyboard layouts across platforms (draft)
+- [**OKLM**](https://github.com/AZERTYGlobal/oklm) (Open Keyboard Layout Model) — an open format to describe, validate, and export keyboard layouts across platforms (draft, [oklm.org](https://oklm.org))
 
 ---
 
