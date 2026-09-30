@@ -1,36 +1,64 @@
 # AZERTY Global
 
-**The AZERTY layout that ships with Windows hasn't changed since 1984 — and it's deeply broken.**
+**Écrire le français correctement, et les autres langues de votre quotidien, sur le clavier que vous avez déjà.**
 
-On Windows AZERTY, you cannot directly type the capital accented letters (É È Ç À) that French orthography requires. Characters the French language actually uses — the ligatures œ and æ, the quotation marks « », the dashes — and – — are simply missing. Typing a period needs the Shift key, the `@` sign hides behind `AltGr+0`, and braces or brackets require finger gymnastics. Typing in Spanish, German, Italian or almost any other language is worse still.
+AZERTY Global est un AZERTY amélioré, gratuit et libre, indépendant de la norme AFNOR NF Z71-300 : les lettres A à Z et les chiffres ne bougent pas, et la ponctuation et les symboles restent presque tous à leur place ; seuls quelques-uns changent, pour être plus faciles à atteindre.
 
-The workarounds have become part of French digital culture: generations of users have memorized Alt codes by heart (`Alt+144` for É), and *« é majuscule »* remains an evergreen Google search in France. Millions of French speakers fight their keyboard dozens of times a day without even noticing anymore.
+- **Télécharger** pour Windows, macOS ou Linux : [azerty.global/download](https://azerty.global/download)
+- **Application Windows** : [Microsoft Store](https://apps.microsoft.com/detail/9N4BTS43SSSZ?cid=github_profile)
+- **Essayer dans le navigateur**, sans rien installer : [essai en ligne](https://azerty.global/?mode=lessons&tutorial=skip)
+- **Prendre en main** en quelques minutes : [guide rapide](https://azerty.global/guide)
 
-**AZERTY Global is the corrected AZERTY**: same letters, better punctuation, direct accented capitals, accessible programming symbols — while preserving **99% of existing typing habits**. Less than 1% of keystrokes differ, so switching takes hours, not weeks.
+## Ce qui change
 
-- 🌍 **Website & interactive tester**: [azerty.global](https://azerty.global)
-- 🪟 **Windows**: classic installer + [Microsoft Store app](https://apps.microsoft.com/detail/9N4BTS43SSSZ?cid=github_profile)
-- 🍎 **macOS** (10.12+) · 🐧 **Linux** (Ubuntu, Debian, Fedora, Arch)
-- 🌐 Covers **200+ languages**, French typography (« » —), math and currency symbols
+| | AZERTY Global | AZERTY traditionnel de Windows |
+|---|---|---|
+| É È Ç À (majuscules accentuées) | Verr. Maj. + é | Codes Alt ou copier-coller |
+| . (point) | Touche directe | Maj + ; |
+| @ (arobase) | Touche en haut à gauche | AltGr + 0 |
+| { } (accolades) | AltGr + D / F, sur la rangée de repos | AltGr + 4 / = |
+| ñ ã á (espagnol, portugais…) | ~ ou ´ puis la lettre | Codes Alt ou copier-coller |
 
-## Repositories
+99 % des frappes sont préservées, d’après une mesure sur le corpus de l’AFNOR. La disposition couvre plus de 300 langues, ainsi que la typographie française (« », œ, espaces insécables).
 
-| Repo | What it is |
+## Dépôts
+
+| Dépôt | Contenu |
 |---|---|
-| [website](https://github.com/AZERTYGlobal/website) | azerty.global — site and interactive keyboard tester |
-| [app](https://github.com/AZERTYGlobal/app) | Windows companion app (Microsoft Store) |
-| [oklm](https://github.com/AZERTYGlobal/oklm) | Open Keyboard Layout Model — open format to describe, validate and export keyboard layouts |
+| [azerty-global-website](https://github.com/AMCF-asso/azerty-global-website) | Le site azerty.global et son essai en ligne |
+| [azerty-global-app](https://github.com/AMCF-asso/azerty-global-app) | L’application Windows publiée sur le Microsoft Store |
+| [oklm](https://github.com/AZERTYGlobal/oklm) | OKLM, un format ouvert en cours de rédaction pour décrire, valider et exporter des dispositions de clavier ([oklm.org](https://oklm.org)) |
 
-## Who is behind this
+## À lire
 
-AZERTY Global is maintained by the **AMCF** (*Association pour la Modernisation du Clavier Français* — Association for the Modernization of the French Keyboard), a French registered nonprofit. Everything is free and released under the **EUPL 1.2** open-source license. Nothing is sold: the mission is public-interest modernization of the French keyboard.
+- [Histoire du clavier AZERTY : origines, mystères et variantes](https://azerty.global/histoire-azerty)
+- [AZERTY Global, norme AFNOR et AZERTY traditionnel : le comparatif](https://azerty.global/comparatif)
+- [Écrire correctement en français : le guide typographique](https://azerty.global/francais-correct)
 
-## Roadmap
+## Qui est derrière
 
-- Hardening the Windows app and cross-platform packages
-- Expanding QWERTY layouts for French speakers on QWERTY hardware
-- [**OKLM**](https://github.com/AZERTYGlobal/oklm) (Open Keyboard Layout Model) — an open format to describe, validate, and export keyboard layouts across platforms (draft, [oklm.org](https://oklm.org))
+AZERTY Global a été cofondé en 2017 par Robert Hodge et Antoine Olivier ; Antoine Olivier le développe depuis 2018. Le projet est porté par l’[AMCF](https://github.com/AMCF-asso), l’Association pour la Modernisation du Clavier Français (loi 1901). Le code est publié sous licence EUPL 1.2.
 
----
+Presse : [azerty.global/presse](https://azerty.global/presse) · Questions : [FAQ](https://azerty.global/faq)
 
-*Started in 2017. Final version released June 15, 2026.*
+<details>
+<summary><strong>English</strong></summary>
+
+### An improved AZERTY, free and open source
+
+AZERTY Global is an improved French AZERTY layout, independent of the AFNOR NF Z71-300 standard. Letters A to Z and the numbers stay where they are, and almost all punctuation and symbols keep their place; only a few move, to be easier to reach. It installs as a layout on the keyboard you already have.
+
+- **Download** for Windows, macOS or Linux: [azerty.global/en/download](https://azerty.global/en/download)
+- **Windows app**: [Microsoft Store](https://apps.microsoft.com/detail/9N4BTS43SSSZ?cid=github_profile)
+- **Website and online tester**: [azerty.global/en](https://azerty.global/en/)
+- **Get started**: [quick guide](https://azerty.global/en/guide)
+
+Accented capitals with Caps Lock + é, a direct period key, @ and # on the top-left key, programming symbols on the home row, and dead keys for international accents. 99% of keystrokes are preserved, measured on the AFNOR corpus. The layout covers more than 300 languages, plus French typography (« », œ, non-breaking spaces).
+
+**Read more:** [History of the AZERTY keyboard](https://azerty.global/en/azerty-history) · [AZERTY Global vs Traditional AZERTY vs US International QWERTY](https://azerty.global/en/comparison) · [French typography: the complete guide](https://azerty.global/en/french-typography)
+
+**Who is behind it:** co-founded in 2017 by Robert Hodge and Antoine Olivier, developed by Antoine Olivier since 2018, and maintained by the [AMCF](https://github.com/AMCF-asso) (Association pour la Modernisation du Clavier Français), a French nonprofit association. Code released under the EUPL 1.2 licence.
+
+Press: [azerty.global/en/press](https://azerty.global/en/press) · Questions: [FAQ](https://azerty.global/en/faq)
+
+</details>
