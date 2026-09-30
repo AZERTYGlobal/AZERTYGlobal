@@ -28,6 +28,7 @@ AZERTY Global est un AZERTY amélioré, gratuit et libre, indépendant de la nor
 | [azerty-global-website](https://github.com/AMCF-asso/azerty-global-website) | Le site azerty.global et son essai en ligne |
 | [azerty-global-app](https://github.com/AMCF-asso/azerty-global-app) | L’application Windows publiée sur le Microsoft Store |
 | [oklm](https://github.com/AZERTYGlobal/oklm) | OKLM, un format ouvert en cours de rédaction pour décrire, valider et exporter des dispositions de clavier ([oklm.org](https://oklm.org)) |
+| [azerty-global-history](https://github.com/AZERTYGlobal/azerty-global-history) | Les versions de 2017 à 2024, en archives |
 
 ## À lire
 
@@ -57,7 +58,7 @@ Accented capitals with Caps Lock + é, a direct period key, @ and # on the top-l
 
 **Read more:** [History of the AZERTY keyboard](https://azerty.global/en/azerty-history) · [AZERTY Global vs Traditional AZERTY vs US International QWERTY](https://azerty.global/en/comparison) · [French typography: the complete guide](https://azerty.global/en/french-typography)
 
-**Who is behind it:** co-founded in 2017 by Robert Hodge and Antoine Olivier, developed by Antoine Olivier since 2018, and maintained by the [AMCF](https://github.com/AMCF-asso) (Association pour la Modernisation du Clavier Français), a French nonprofit association. Code released under the EUPL 1.2 licence.
+**Who is behind it:** co-founded in 2017 by Robert Hodge and Antoine Olivier, developed by Antoine Olivier since 2018, and maintained by the [AMCF](https://github.com/AMCF-asso) (Association pour la Modernisation du Clavier Français), a French nonprofit association. Code released under the EUPL 1.2 licence. Earlier versions, 2017 to 2024: [azerty-global-history](https://github.com/AZERTYGlobal/azerty-global-history).
 
 Press: [azerty.global/en/press](https://azerty.global/en/press) · Questions: [FAQ](https://azerty.global/en/faq)
 
